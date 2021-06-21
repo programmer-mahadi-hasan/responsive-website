@@ -1,0 +1,36 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  color: #363958;
+}
+header{
+  background-color: #FFF9F4;
+}
+.logo-width{
+  width: 350px;
+}
+.filled{
+  color: white;
+}
+.text-highlighter{
+  color: #FA804C;
+}
+.btn-text{
+  color: white;
+}
+.shoe-img-bgclr{
+  background-color: #F1F1F1;
+  border-radius: 20px;
+}
+.shoes-card{
+  border: 0;
+  border-radius: 20px;
+}
+.shoes-card-footer{
+  background-color: white;
+  border: none;
+}
+.option-card{
+  border: 0;
+  border-radius: 20px;
+  
+}
